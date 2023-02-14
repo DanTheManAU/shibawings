@@ -12,8 +12,8 @@
       "type": ["image", "circle"],
       "image": {
         "src": "https://raw.githubusercontent.com/DanTheManAU/shibawings/main/shiba-inu-shib-seeklogo.com.svg",
-        "width": 100,
-        "height": 100
+        "width": 400,
+        "height": 400
       },
       "circle": {
         "stroke": {
@@ -33,7 +33,7 @@
       }
     },
     "size": {
-      "value": 10,
+      "value": 40,
       "random": true,
       "anim": {
         "enable": false,
