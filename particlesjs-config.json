@@ -7,9 +7,7 @@
         "value_area": 800
       }
     },
-    "color": {
-      "value": "#ffffff"
-    },
+    
     "shape": {
       "type": ["image", "circle"],
       "image": {
@@ -20,7 +18,7 @@
       "circle": {
         "stroke": {
         "width": 0,
-        "color": "#000000"
+        "color": "#ffffff"
        }
       }
     },
